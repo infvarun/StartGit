@@ -1,7 +1,7 @@
-# Getting Statrted with Git
+# Getting Started with Git
 
 #### A fun project for my learning exp
 
 ---
 
-Email me : [24x7varun@gmail.com]
+Email me : (24x7varun@gmail.com)
